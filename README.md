@@ -1,2 +1,0 @@
-# ULBRA-CASSIO
-Estudos
